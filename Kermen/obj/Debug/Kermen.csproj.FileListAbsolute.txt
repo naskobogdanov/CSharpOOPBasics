@@ -1,0 +1,6 @@
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\bin\Debug\Kermen.exe.config
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\obj\Debug\Kermen.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\bin\Debug\Kermen.exe
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\bin\Debug\Kermen.pdb
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\obj\Debug\Kermen.exe
+D:\SoftUni\Fundamental Level\OOP\Exam Retake Preparation\C-SharpOOPBasics-ExamSample-6July2016\Kermen\obj\Debug\Kermen.pdb
